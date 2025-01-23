@@ -8,8 +8,9 @@ def list_files(dir_name):
 
 def read_and_process_csv(file_path):
 
-    file_name = os.path.basename(file_path)  # Extract the file name
-
+    file_name = os.path.basename(file_path)
+    
+    # df = pd.read_csv(file_path, skiprows=10, encoding='iso-8859-1', sep=r'[;,]', decimal=',', engine='python')
     df = pd.read_csv(file_path, skiprows=10, encoding='iso-8859-1', sep=';', decimal=',')
 
     df.dropna(axis=1, how='all', inplace=True)
