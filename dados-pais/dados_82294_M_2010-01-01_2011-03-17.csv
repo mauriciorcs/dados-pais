@@ -1,0 +1,27 @@
+Nome: ACARAU
+Codigo Estacao: 82294
+Latitude: -2.885772
+Longitude: -40.114075
+Altitude: 21.52
+Situacao: Desativada
+Data Inicial: 2010-01-01
+Data Final: 2011-03-17
+Periodicidade da Medicao: Mensal
+
+Data Medicao;PRECIPITACAO TOTAL, MENSAL(mm);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);
+2010-01-31;36,1;32,6;27,8;23,4;91,5;
+2010-02-28;22,2;33,5;28,7;24,9;89,8;
+2010-03-31;105,9;32,9;28,4;24,2;93;
+2010-04-30;205,4;32,4;28;24,2;95,7;
+2010-05-31;89,6;32,7;28,1;24,2;95,4;
+2010-06-30;135,9;32,8;27,6;22,9;95,6;
+2010-07-31;1,1;33,4;27,6;22,9;94,3;
+2010-08-31;null;null;null;null;null;
+2010-09-30;0;33,5;28,2;25,1;81,7;
+2010-10-31;null;null;null;null;null;
+2010-11-30;null;null;null;null;null;
+2010-12-31;null;null;null;null;null;
+2011-01-31;315,4;30,9;26,6;23,3;82,5;
+2011-02-28;170,3;30,9;26,9;23,4;85,8;
+2011-03-31;null;30;26,4;23,4;91,3;
+

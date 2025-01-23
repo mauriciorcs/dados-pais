@@ -1,0 +1,31 @@
+Nome: LINHARES
+Codigo Estacao: 83597
+Latitude: -19.416256
+Longitude: -40.073235
+Altitude: 18
+Situacao: Desativada
+Data Inicial: 2010-01-01
+Data Final: 2011-07-25
+Periodicidade da Medicao: Mensal
+
+Data Medicao;PRECIPITACAO TOTAL, MENSAL(mm);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);
+2010-01-31;null;null;null;null;null;
+2010-02-28;null;null;null;null;null;
+2010-03-31;null;null;null;null;null;
+2010-04-30;null;null;null;null;null;
+2010-05-31;null;null;null;null;null;
+2010-06-30;null;null;null;null;null;
+2010-07-31;null;null;null;null;null;
+2010-08-31;null;null;null;null;null;
+2010-09-30;null;null;null;null;null;
+2010-10-31;null;null;null;null;null;
+2010-11-30;null;null;null;null;null;
+2010-12-31;null;null;null;null;null;
+2011-01-31;null;null;null;null;null;
+2011-02-28;null;null;null;null;null;
+2011-03-31;null;null;null;null;null;
+2011-04-30;null;null;null;null;null;
+2011-05-31;null;null;null;null;null;
+2011-06-30;null;null;null;null;null;
+2011-07-31;null;null;null;null;null;
+

@@ -1,0 +1,13 @@
+Nome: TRES LAGOAS
+Codigo Estacao: 83618
+Latitude: -20.794867
+Longitude: -51.713519
+Altitude: 323.75
+Situacao: Desativada
+Data Inicial: 2010-01-01
+Data Final: 2010-01-03
+Periodicidade da Medicao: Mensal
+
+Data Medicao;PRECIPITACAO TOTAL, MENSAL(mm);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);
+2010-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

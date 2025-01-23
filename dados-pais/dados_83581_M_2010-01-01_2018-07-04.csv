@@ -1,0 +1,115 @@
+Nome: FLORESTAL
+Codigo Estacao: 83581
+Latitude: -19.885422
+Longitude: -44.416889
+Altitude: 753.51
+Situacao: Desativada
+Data Inicial: 2010-01-01
+Data Final: 2018-07-04
+Periodicidade da Medicao: Mensal
+
+Data Medicao;PRECIPITACAO TOTAL, MENSAL(mm);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);
+2010-01-31;163,4;31,7;null;null;null;
+2010-02-28;60;32,9;null;null;null;
+2010-03-31;210,4;30,7;null;null;null;
+2010-04-30;51,8;29,7;null;null;null;
+2010-05-31;48,2;27,2;null;null;null;
+2010-06-30;1,4;26;null;null;null;
+2010-07-31;0;27;null;null;null;
+2010-08-31;0;28,9;null;null;null;
+2010-09-30;61,1;29,8;null;null;null;
+2010-10-31;147,3;29,8;null;null;null;
+2010-11-30;333,6;28,6;null;null;null;
+2010-12-31;305,8;31,4;null;null;null;
+2011-01-31;239,7;28,5;null;null;null;
+2011-02-28;27,8;33,5;null;null;null;
+2011-03-31;170,7;29,9;null;null;null;
+2011-04-30;28,4;29,9;null;null;null;
+2011-05-31;,8;27,9;null;null;null;
+2011-06-30;12;26,5;null;null;null;
+2011-07-31;0;27,4;null;null;null;
+2011-08-31;0;30,8;null;null;null;
+2011-09-30;,3;30,7;null;null;null;
+2011-10-31;145;28,7;null;null;null;
+2011-11-30;355,9;28,3;null;null;null;
+2011-12-31;671,6;28,1;null;null;null;
+2012-01-31;332,2;29,5;null;null;null;
+2012-02-29;36,6;31,4;null;null;null;
+2012-03-31;153,2;30,8;null;null;null;
+2012-04-30;32,4;30;null;null;null;
+2012-05-31;29,8;26,3;null;null;null;
+2012-06-30;39;26,9;null;null;null;
+2012-07-31;2,6;27,5;null;null;null;
+2012-08-31;,4;26,9;null;null;null;
+2012-09-30;0;33;null;null;null;
+2012-10-31;74,8;31,7;null;null;null;
+2012-11-30;255,3;29,9;null;null;null;
+2012-12-31;173,2;32,8;null;null;null;
+2013-01-31;242,6;30,2;null;null;null;
+2013-02-28;56;32,2;null;null;null;
+2013-03-31;136,6;30;null;null;null;
+2013-04-30;73,4;27,7;null;null;null;
+2013-05-31;63,3;27,9;null;null;null;
+2013-06-30;19,4;27,3;null;null;null;
+2013-07-31;1,4;27,8;null;null;null;
+2013-08-31;,2;29,1;null;null;null;
+2013-09-30;37,8;29,9;null;null;null;
+2013-10-31;113;29,1;null;null;null;
+2013-11-30;118;30,4;null;null;null;
+2013-12-31;316,4;29,7;null;null;null;
+2014-01-31;104,6;32,9;null;null;null;
+2014-02-28;4;33,1;null;null;null;
+2014-03-31;155;30,8;null;null;null;
+2014-04-30;71,2;29,7;null;null;null;
+2014-05-31;8;28,6;null;null;null;
+2014-06-30;3,6;null;null;null;null;
+2014-07-31;51,4;26,2;null;null;null;
+2014-08-31;0;29,5;null;null;null;
+2014-09-30;3,4;32;null;null;null;
+2014-10-31;161,2;31,6;null;null;null;
+2014-11-30;262,4;30,6;null;null;null;
+2014-12-31;128;30,9;null;null;null;
+2015-01-31;198,4;34,6;null;null;null;
+2015-02-28;240,7;31,1;null;null;null;
+2015-03-31;225;30,4;null;null;null;
+2015-04-30;24,9;29,9;null;null;null;
+2015-05-31;30,8;26,8;null;null;null;
+2015-06-30;7;27;null;null;null;
+2015-07-31;1;27,8;null;null;null;
+2015-08-31;1,4;29,6;null;11,9;null;
+2015-09-30;75,2;32,4;null;15,2;null;
+2015-10-31;null;34,5;null;17;null;
+2015-11-30;287,2;32,7;null;19,7;null;
+2015-12-31;117,2;32,6;null;19,6;null;
+2016-01-31;455,4;29,5;null;19,4;null;
+2016-02-29;40,2;33,9;null;19;null;
+2016-03-31;128,6;31,7;null;18;null;
+2016-04-30;19,2;32,3;null;15;null;
+2016-05-31;16;28,3;null;12,4;null;
+2016-06-30;41,6;26,8;null;10,4;null;
+2016-07-31;0;28,9;null;8,1;null;
+2016-08-31;1,6;30,4;null;10;null;
+2016-09-30;66,2;32,1;null;13,7;null;
+2016-10-31;112;31,5;null;16,7;null;
+2016-11-30;201,9;29,9;null;17;null;
+2016-12-31;289,2;30,6;null;16,7;null;
+2017-01-31;143;32,6;null;16,9;null;
+2017-02-28;165,2;30,8;null;16,6;null;
+2017-03-31;134,1;31,1;null;15,1;null;
+2017-04-30;31,8;30,2;null;14;null;
+2017-05-31;50;27,8;null;12;null;
+2017-06-30;19,8;28,2;null;8,9;null;
+2017-07-31;0;25,4;null;5,2;null;
+2017-08-31;3,2;29,9;null;7,8;null;
+2017-09-30;15;30,7;null;9;null;
+2017-10-31;100,2;32,1;null;16;null;
+2017-11-30;130;29,1;null;18,3;null;
+2017-12-31;227,4;31;null;19,3;null;
+2018-01-31;177,4;32;null;18,7;null;
+2018-02-28;292;29,2;null;18,2;null;
+2018-03-31;175,6;31,5;null;18,5;null;
+2018-04-30;7,4;30,1;null;15,3;null;
+2018-05-31;19,8;28,4;null;10,7;null;
+2018-06-30;null;null;null;null;null;
+2018-07-31;null;null;null;null;null;
+

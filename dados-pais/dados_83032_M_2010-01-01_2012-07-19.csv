@@ -1,0 +1,43 @@
+Nome: LAMBARI
+Codigo Estacao: 83032
+Latitude: -21.944146
+Longitude: -45.317739
+Altitude: 884.56
+Situacao: Desativada
+Data Inicial: 2010-01-01
+Data Final: 2012-07-19
+Periodicidade da Medicao: Mensal
+
+Data Medicao;PRECIPITACAO TOTAL, MENSAL(mm);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);
+2010-01-31;263;31,4;null;null;null;
+2010-02-28;99;32,2;null;null;null;
+2010-03-31;177,2;30,7;null;null;null;
+2010-04-30;53,8;29,1;null;null;null;
+2010-05-31;23,6;26,6;null;null;null;
+2010-06-30;23,4;24,2;null;null;null;
+2010-07-31;14,2;26,1;null;null;null;
+2010-08-31;0;27,9;null;null;null;
+2010-09-30;71,6;29,9;null;null;null;
+2010-10-31;113;29,3;null;null;null;
+2010-11-30;231,8;29,5;null;null;null;
+2010-12-31;303,4;31,7;null;null;null;
+2011-01-31;653,4;29,3;null;null;null;
+2011-02-28;55,8;33;null;null;null;
+2011-03-31;179,6;28,6;null;null;null;
+2011-04-30;75,4;29,2;null;null;null;
+2011-05-31;36,8;26,6;null;null;null;
+2011-06-30;24,4;24,2;null;null;null;
+2011-07-31;null;null;null;null;null;
+2011-08-31;null;null;null;null;null;
+2011-09-30;null;null;null;null;null;
+2011-10-31;null;null;null;null;null;
+2011-11-30;null;null;null;null;null;
+2011-12-31;null;null;null;null;null;
+2012-01-31;null;null;null;null;null;
+2012-02-29;null;null;null;null;null;
+2012-03-31;null;null;null;null;null;
+2012-04-30;null;null;null;null;null;
+2012-05-31;null;null;null;null;null;
+2012-06-30;null;null;null;null;null;
+2012-07-31;null;null;null;null;null;
+
